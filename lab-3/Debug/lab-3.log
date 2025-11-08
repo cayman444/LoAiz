@@ -1,5 +1,0 @@
-﻿  lab-3.c
-F:\2 kurs\lab-3\lab-3\lab-3.c(59,11): warning C4013: strcpy: нет определения; предполагается "extern" с возвратом типа "int"
-F:\2 kurs\lab-3\lab-3\lab-3.c(160,30): warning C4027: функция объявлена без списка формальных параметров
-F:\2 kurs\lab-3\lab-3\lab-3.c(304,19): warning C4013: strcmp: нет определения; предполагается "extern" с возвратом типа "int"
-  lab-3.vcxproj -> F:\2 kurs\lab-3\Debug\lab-3.exe
