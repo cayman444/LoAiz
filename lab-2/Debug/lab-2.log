@@ -1,0 +1,3 @@
+﻿  main.c
+E:\2 kurs\lab-2\lab-2\main.c(240,11): warning C4013: _getch: нет определения; предполагается "extern" с возвратом типа "int"
+  lab-2.vcxproj -> E:\2 kurs\lab-2\Debug\lab-2.exe
